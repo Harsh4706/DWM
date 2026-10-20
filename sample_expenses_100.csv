@@ -1,0 +1,101 @@
+title,amount,category,expense_date,payment_method,notes
+Morning tea,35,Food,2026-01-02,UPI,Daily tea
+Bus pass,450,Travel,2026-01-03,Cash,Monthly commute
+Grocery shopping,1850,Food,2026-01-04,Debit Card,Weekly groceries
+Notebook set,280,Education,2026-01-05,UPI,Study supplies
+Electricity bill,1420,Bills and Utilities,2026-01-06,Net Banking,Monthly bill
+Movie ticket,320,Entertainment,2026-01-07,Credit Card,Weekend movie
+Pharmacy purchase,560,Healthcare,2026-01-08,UPI,Medicines
+Lunch,180,Food,2026-01-09,Cash,College lunch
+Auto ride,120,Travel,2026-01-10,UPI,Local travel
+Phone recharge,299,Bills and Utilities,2026-01-11,UPI,Mobile recharge
+Coffee,90,Food,2026-01-12,Debit Card,Cafe visit
+Online course,1200,Education,2026-01-13,Credit Card,Learning course
+T-shirt,799,Shopping,2026-01-14,UPI,Clothing
+Dinner,450,Food,2026-01-15,Debit Card,Dinner out
+Water bill,380,Bills and Utilities,2026-01-16,Net Banking,Monthly bill
+Metro recharge,500,Travel,2026-01-17,UPI,Travel card
+Haircut,250,Other,2026-01-18,Cash,Personal care
+Pizza,650,Food,2026-01-19,Credit Card,Family dinner
+Medicine refill,740,Healthcare,2026-01-20,UPI,Prescription refill
+Concert ticket,1100,Entertainment,2026-01-21,Credit Card,Music event
+Pen and paper,160,Education,2026-01-22,Cash,Stationery
+Cab ride,340,Travel,2026-01-23,UPI,Airport ride
+Shoes,2200,Shopping,2026-01-24,Debit Card,Running shoes
+Rent payment,12000,Rent,2026-01-25,Net Banking,Monthly rent
+Breakfast,140,Food,2026-01-26,UPI,Breakfast
+Internet bill,799,Bills and Utilities,2026-01-27,Net Banking,Internet service
+Museum ticket,180,Entertainment,2026-01-28,Cash,Weekend visit
+Vegetables,620,Food,2026-01-29,UPI,Fresh produce
+Bus ticket,80,Travel,2026-01-30,Cash,Local bus
+Face wash,320,Shopping,2026-01-31,Debit Card,Personal care
+Tea and snacks,110,Food,2026-02-01,Cash,Evening snack
+Train ticket,680,Travel,2026-02-02,UPI,Trip ticket
+Textbook,950,Education,2026-02-03,Credit Card,Course textbook
+Gas cylinder,1150,Bills and Utilities,2026-02-04,UPI,Kitchen gas
+Gym fee,900,Other,2026-02-05,Debit Card,Monthly membership
+Burger,280,Food,2026-02-06,UPI,Quick meal
+Doctor consultation,700,Healthcare,2026-02-07,Cash,General consultation
+Board game,850,Entertainment,2026-02-08,Credit Card,Home entertainment
+Jeans,1499,Shopping,2026-02-09,Debit Card,Clothing
+Auto ride,150,Travel,2026-02-10,UPI,Local travel
+Milk and bread,190,Food,2026-02-11,Cash,Daily groceries
+Water bottle,70,Shopping,2026-02-12,UPI,Reusable bottle
+Exam fee,600,Education,2026-02-13,Net Banking,Registration fee
+Electricity bill,1680,Bills and Utilities,2026-02-14,Net Banking,Monthly bill
+Pharmacy purchase,430,Healthcare,2026-02-15,UPI,Health supplies
+Lunch,220,Food,2026-02-16,Debit Card,College lunch
+Movie snacks,260,Entertainment,2026-02-17,Cash,Movie snacks
+Cab ride,410,Travel,2026-02-18,UPI,Ride home
+Rent payment,12000,Rent,2026-02-19,Net Banking,Monthly rent
+Grocery shopping,2100,Food,2026-02-20,Credit Card,Monthly groceries
+Backpack,1800,Shopping,2026-02-21,Debit Card,College backpack
+Coffee,130,Food,2026-02-22,UPI,Cafe visit
+Online certification,2500,Education,2026-02-23,Credit Card,Professional course
+Mobile recharge,399,Bills and Utilities,2026-02-24,UPI,Mobile recharge
+Pain relief tablets,180,Healthcare,2026-02-25,Cash,Medicines
+Bus pass,450,Travel,2026-02-26,Cash,Monthly commute
+Streaming subscription,599,Entertainment,2026-02-27,Credit Card,Monthly subscription
+Dinner,780,Food,2026-02-28,Debit Card,Dinner out
+Stationery,240,Education,2026-03-01,UPI,Study supplies
+Auto ride,100,Travel,2026-03-02,UPI,Local travel
+Household supplies,920,Shopping,2026-03-03,Debit Card,Home supplies
+Internet bill,799,Bills and Utilities,2026-03-04,Net Banking,Internet service
+Breakfast,160,Food,2026-03-05,Cash,Breakfast
+Lab test,1250,Healthcare,2026-03-06,UPI,Health test
+Football match,900,Entertainment,2026-03-07,Credit Card,Sports event
+T-shirt,699,Shopping,2026-03-08,UPI,Clothing
+Metro recharge,500,Travel,2026-03-09,UPI,Travel card
+Rent payment,12000,Rent,2026-03-10,Net Banking,Monthly rent
+Lunch,240,Food,2026-03-11,Debit Card,College lunch
+Printer ink,1450,Education,2026-03-12,Credit Card,Project printing
+Gas bill,980,Bills and Utilities,2026-03-13,Net Banking,Monthly gas bill
+Haircut,300,Other,2026-03-14,Cash,Personal care
+Pizza,720,Food,2026-03-15,UPI,Weekend meal
+Medicine refill,620,Healthcare,2026-03-16,UPI,Prescription refill
+Museum ticket,250,Entertainment,2026-03-17,Cash,Weekend visit
+Train ticket,750,Travel,2026-03-18,Debit Card,Trip ticket
+Sneakers,2499,Shopping,2026-03-19,Credit Card,Footwear
+Grocery shopping,1950,Food,2026-03-20,UPI,Weekly groceries
+Phone recharge,299,Bills and Utilities,2026-03-21,UPI,Mobile recharge
+Coding workshop,1800,Education,2026-03-22,Net Banking,Workshop fee
+Doctor consultation,800,Healthcare,2026-03-23,Cash,General consultation
+Lunch,190,Food,2026-03-24,Cash,College lunch
+Cab ride,380,Travel,2026-03-25,UPI,Local travel
+Concert ticket,1350,Entertainment,2026-03-26,Credit Card,Music event
+Notebook set,310,Education,2026-03-27,UPI,Stationery
+Electricity bill,1510,Bills and Utilities,2026-03-28,Net Banking,Monthly bill
+Dinner,520,Food,2026-03-29,Debit Card,Dinner out
+Pharmacy purchase,390,Healthcare,2026-03-30,UPI,Medicines
+Rent payment,12000,Rent,2026-03-31,Net Banking,Monthly rent
+Travel bag,2100,Shopping,2026-04-01,Debit Card,Travel accessory
+Morning tea,40,Food,2026-04-02,Cash,Daily tea
+Bus ticket,90,Travel,2026-04-03,Cash,Local bus
+Online course,1600,Education,2026-04-04,Credit Card,Learning course
+Water bill,410,Bills and Utilities,2026-04-05,Net Banking,Monthly bill
+Movie ticket,350,Entertainment,2026-04-06,UPI,Weekend movie
+Vegetables,680,Food,2026-04-07,UPI,Fresh produce
+Dental checkup,1000,Healthcare,2026-04-08,Debit Card,Health checkup
+Gift purchase,900,Shopping,2026-04-09,UPI,Birthday gift
+Auto ride,140,Travel,2026-04-10,UPI,Local travel
+Lunch,210,Food,2026-04-11,Cash,College lunch
